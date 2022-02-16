@@ -1,0 +1,9 @@
+body {
+    cursor: url('Normal.cur'),
+        default;
+}
+a,
+img {
+    cursor: url('Link.cur'),
+        default;
+}
