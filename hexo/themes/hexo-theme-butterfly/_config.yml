@@ -85,7 +85,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
+index_img: /img/l.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -824,6 +824,7 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/css/mouse.css">
     - <link rel="stylesheet" href="/css/background.css">
+    - <link rel="stylesheet" href="/css/row.css">
   bottom:
     - <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
     - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fish.js"></script>
