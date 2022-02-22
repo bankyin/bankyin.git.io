@@ -2,6 +2,8 @@
 title: Hexo博客搭建和多端部署
 date: 2022-02-17 16:46:51
 tags: hexo
+top_img: 
+cover: "http://bank-blog.oss-cn-beijing.aliyuncs.com/img/hexo.jpg"
 ---
 # Hexo博客搭建+多端部署
 > 最近将博客搭建起来了，在这里记录下爬的坑。也作为第一篇博客  
