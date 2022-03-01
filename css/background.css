@@ -10,7 +10,8 @@
     }
 }
 #body-wrap {
-    background: linear-gradient(-45deg, #0062be, #925696, #cc426e, #fb0347);
+    /* background: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%); */
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
     background-size: 400% 400%;
     animation: gradientBG 15s ease infinite;
 }
